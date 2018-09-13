@@ -47,7 +47,6 @@ E2016-02                  mail.canada.ca
 
 #endregion
 
-
 #region [Optional] Setting SMTP banner as per https://docs.microsoft.com/en-us/exchange/mail-flow/connectors/modify-smtp-banners
 
 $MyRC = Get-ReceiveConnector "E2016-01\Default Frontend E2016-01"
